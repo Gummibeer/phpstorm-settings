@@ -1,0 +1,39 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*it_e*it_en*</mask>
+      <mask>*it_e*it_n*</mask>
+      <mask>*it_e*itn*</mask>
+      <mask>*it_e*in*</mask>
+      <mask>*it_e*n*</mask>
+      <mask>*it_e**</mask>
+      <mask>*it_e*</mask>
+      <mask>*it_*</mask>
+      <mask>*it*</mask>
+      <mask>*i*</mask>
+      <mask>*e*</mask>
+      <mask>*en*</mask>
+      <mask>*en_*</mask>
+      <mask>*en_gb*</mask>
+      <mask>*en_g´*</mask>
+      <mask>*en_g*</mask>
+      <mask>**</mask>
+      <mask>*n*</mask>
+      <mask>*nl*</mask>
+      <mask>*nl_*</mask>
+      <mask>*nl_n*</mask>
+      <mask>*nl_nl*</mask>
+      <mask>*</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.ts</mask>
+      <mask>*.t</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
+    </recentFileMasks>
+  </component>
+</application>

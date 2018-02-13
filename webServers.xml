@@ -1,0 +1,22 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7ba69c03-bb5e-461a-a8c0-0c8ceb50b98e" name="shootager" url="http://81.169.154.12">
+        <fileTransfer host="81.169.154.12" port="22" rootFolder="/var/www/html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="0ba9ea10-52d1-41c2-8eaa-98832f74b3a4" name="dorne" url="http://62.75.151.189">
+        <fileTransfer host="62.75.151.189" port="22" rootFolder="/var/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

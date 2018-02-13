@@ -1,0 +1,6 @@
+<keymap version="1" name="NetBeans Mac" parent="NetBeans 6.5">
+  <action id="ActivateDebugToolWindow" />
+  <action id="ActivateStructureToolWindow" />
+  <action id="ActivateTODOToolWindow" />
+  <action id="ActivateVersionControlToolWindow" />
+</keymap>
