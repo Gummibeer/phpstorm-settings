@@ -26,10 +26,12 @@
       <properties>
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_bootstrap-notify_0.2.0_js_bootstrap-notify.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_mouse0270-bootstrap-notify_3.1.7_bootstrap-notify.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_bootstrap-notify_0.2.0_js_bootstrap-notify.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_mouse0270-bootstrap-notify_3.1.7_bootstrap-notify.js" />
       </CLASSES>
       <SOURCES />
     </library>
