@@ -11,6 +11,10 @@
       <mapping pattern="gitignore" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="access_log" type="PLAIN_TEXT" />
+      <mapping pattern="4" type="PLAIN_TEXT" />
+      <mapping pattern="3" type="PLAIN_TEXT" />
+      <mapping pattern="2" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="ssl_error_log" type="PLAIN_TEXT" />
