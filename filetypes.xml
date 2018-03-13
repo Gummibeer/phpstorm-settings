@@ -7,6 +7,7 @@
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="dep" type="PHP" />
       <mapping pattern="octobus" type="PHP" />
+      <mapping pattern="artisan" type="PHP" />
       <mapping pattern=".env.dusk" type="PLAIN_TEXT" />
       <mapping pattern="gitignore" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
