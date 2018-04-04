@@ -11,6 +11,7 @@
       <mapping pattern=".env.dusk" type="PLAIN_TEXT" />
       <mapping pattern="gitignore" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="access_log" type="PLAIN_TEXT" />
       <mapping pattern="4" type="PLAIN_TEXT" />
       <mapping pattern="3" type="PLAIN_TEXT" />
