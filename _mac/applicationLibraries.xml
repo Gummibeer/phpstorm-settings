@@ -52,6 +52,28 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="docsify" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_docsify_lib_docsify.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_docsify_lib_docsify.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="docsify-copy-code" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_docsify-copy-code@2_dist_docsify-copy-code.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_docsify-copy-code@2_dist_docsify-copy-code.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="dropzone" type="javaScript">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_dropzone_5.2.0_dropzone.js" />
@@ -94,6 +116,17 @@
     <library name="imagesloaded.pkgd" type="javaScript">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_imagesloaded@4_imagesloaded.pkgd.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="index" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_docsify-edit-on-github@1.0.1_index.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_docsify-edit-on-github@1.0.1_index.js" />
       </CLASSES>
       <SOURCES />
     </library>
