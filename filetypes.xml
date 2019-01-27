@@ -8,13 +8,13 @@
       <mapping pattern="dep" type="PHP" />
       <mapping pattern="octobus" type="PHP" />
       <mapping pattern="artisan" type="PHP" />
+      <mapping pattern="3" type="PLAIN_TEXT" />
       <mapping pattern=".env.dusk" type="PLAIN_TEXT" />
       <mapping pattern="gitignore" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="access_log" type="PLAIN_TEXT" />
       <mapping pattern="4" type="PLAIN_TEXT" />
-      <mapping pattern="3" type="PLAIN_TEXT" />
       <mapping pattern="2" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
@@ -25,6 +25,7 @@
       <mapping ext="groovy" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping ext="rtf" type="PLAIN_TEXT" />
       <mapping pattern=".env.dist" type="Twig" />
       <mapping pattern="*.yml.dist" type="YAML" />
     </extensionMap>
