@@ -297,6 +297,28 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="swagger-ui-bundle" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_swagger-ui_3.21.0_swagger-ui-bundle.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_swagger-ui_3.21.0_swagger-ui-bundle.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="swagger-ui-standalone-preset" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_swagger-ui_3.21.0_swagger-ui-standalone-preset.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_swagger-ui_3.21.0_swagger-ui-standalone-preset.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="sweetalert" type="javaScript">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_sweetalert_1.1.3_sweetalert.min.js" />
