@@ -46,7 +46,13 @@
       <SOURCES />
     </library>
     <library name="bootstrap.bundle" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_twitter-bootstrap_4.1.3_js_bootstrap.bundle.js" />
+        </sourceFilesUrls>
+      </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_twitter-bootstrap_4.1.3_js_bootstrap.bundle.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_twitter-bootstrap_4.0.0_js_bootstrap.bundle.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_twitter-bootstrap_4.1.3_js_bootstrap.bundle.js" />
       </CLASSES>
@@ -163,10 +169,12 @@
       <properties>
         <option name="frameworkName" value="jQuery" />
         <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_jquery_3.3.1_jquery.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jquery_3.3.1_jquery.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_jquery_3.3.1_jquery.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jquery_3.2.1_jquery.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jquery_3.3.1_jquery.js" />
       </CLASSES>
@@ -235,8 +243,25 @@
       </CLASSES>
       <SOURCES />
     </library>
-    <library name="popper" type="javaScript">
+    <library name="polyfill" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.polyfill.io_v2_polyfill.js" />
+        </sourceFilesUrls>
+      </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.polyfill.io_v2_polyfill.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="popper" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_popper.js_1.14.4_esm_popper.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_popper.js_1.14.4_esm_popper.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_popper.js_1.12.9_umd_popper.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_popper.js_1.14.3_umd_popper.js" />
       </CLASSES>
@@ -323,6 +348,17 @@
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_sweetalert_1.1.3_sweetalert.min.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_sweetalert@2.1.0_dist_sweetalert.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="swiper" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_Swiper_4.4.1_js_swiper.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_Swiper_4.4.1_js_swiper.js" />
       </CLASSES>
       <SOURCES />
     </library>
