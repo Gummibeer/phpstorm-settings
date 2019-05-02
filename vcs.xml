@@ -398,9 +398,17 @@
           <option name="url" value="https://github.com/even-on-sunday/strenesse-b2c-newsletter.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gist.github.com/d1c5ce1b851cdc30f44d615cdfd649ed.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gist.github.com" />
+          <option name="userName" value="dev.gummibeer@gmail.com" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Projects/EOS" />
+    <option name="cloneParentDir" value="$USER_HOME$/Projects/private" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Downloads" />
