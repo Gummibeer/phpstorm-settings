@@ -3,6 +3,9 @@
     <account id="dc048220-0e27-4fa4-b06e-f1e5be6cf779" name="Gummibeer">
       <server host="github.com" />
     </account>
+    <account id="a5b47926-776c-419c-8c57-3e823db5c090" name="Gummibeer">
+      <server useHttp="false" host="github.com" />
+    </account>
   </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="Gummibeer" />
