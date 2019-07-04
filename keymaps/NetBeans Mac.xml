@@ -3,4 +3,8 @@
   <action id="ActivateStructureToolWindow" />
   <action id="ActivateTODOToolWindow" />
   <action id="ActivateVersionControlToolWindow" />
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="ctrl u" second-keystroke="s" />
+    <keyboard-shortcut first-keystroke="ctrl meta u" />
+  </action>
 </keymap>
