@@ -1,5 +1,5 @@
 <profile version="1.0" is_locked="true">
-  <option name="myName" value="Composer" />
+  <option name="myName" value="TLint" />
   <inspection_tool class="AlphaUnsortedPropertiesFile" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="AmdModulesDependencies" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="AngularAmbiguousComponentTag" enabled="false" level="ERROR" enabled_by_default="false" />
@@ -81,7 +81,7 @@
   <inspection_tool class="CommaExpressionJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ComposeUnknownKeys" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="ComposeUnknownValues" enabled="false" level="ERROR" enabled_by_default="false" />
-  <inspection_tool class="ComposerJsonSchema" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="ComposerJsonSchema" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="ConditionalExpressionJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ConditionalExpressionWithIdenticalBranchesJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ConfusingFloatingPointLiteralJS" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -185,7 +185,7 @@
   <inspection_tool class="ExceptionCaughtLocallyJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="FallThroughInSwitchStatementJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="FileHeaderInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-  <inspection_tool class="FilePath" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="FilePath" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="FlowJSConfig" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="FlowJSCoverage" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="FlowJSError" enabled="false" level="ERROR" enabled_by_default="false" />
@@ -368,7 +368,7 @@
   <inspection_tool class="MagicNumberJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MarkdownUnresolvedFileReference" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MessDetectorValidationInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-  <inspection_tool class="Misconfiguration" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="Misconfiguration" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="MissingService" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MissingSinceTagDocInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="MssqlBuiltinInspection" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -390,7 +390,7 @@
   <inspection_tool class="NonAsciiCharacters" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="NonBlockStatementBodyJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="NonShortCircuitBooleanExpressionJS" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="NotInstalledPackage" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="NotInstalledPackage" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="NpmUsedModulesInstalled" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="ObjectAllocationIgnoredJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="OctalIntegerJS" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -401,7 +401,7 @@
     <option name="m_limit" value="3" />
   </inspection_tool>
   <inspection_tool class="PackageJsonMismatchedDependency" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="PackageVersion" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="PackageVersion" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="ParameterNamingConventionJS" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="m_regex" value="[a-z][A-Za-z]*" />
     <option name="m_minLength" value="1" />
@@ -613,7 +613,7 @@
   <inspection_tool class="Symfony2YamlDuplicateServiceKeyInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="Symfony2YamlRouteDuplicateInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SyntaxError" enabled="false" level="ERROR" enabled_by_default="false" />
-  <inspection_tool class="TLintInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="TLintInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="TaggedExtendsInterfaceClass" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="TailRecursionJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="TaskProblemsInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
