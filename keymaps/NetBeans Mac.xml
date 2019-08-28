@@ -3,6 +3,10 @@
   <action id="ActivateStructureToolWindow" />
   <action id="ActivateTODOToolWindow" />
   <action id="ActivateVersionControlToolWindow" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="ctrl u" second-keystroke="s" />
     <keyboard-shortcut first-keystroke="ctrl meta u" />
