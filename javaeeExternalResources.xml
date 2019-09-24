@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="https://raw.githubusercontent.com/K-Phoen/PHP-CS-Fixer/dd96fc45c0b44df9236f1dbdad9815a8865c2b72/doc/checkstyle.xsd" location="$USER_HOME$/Library/Caches/PhpStorm2019.1/extResources/a3306e15_checkstyle.xsd" />
+  </component>
+</application>
