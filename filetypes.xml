@@ -33,6 +33,7 @@
       <mapping ext="rtf" type="PLAIN_TEXT" />
       <mapping pattern="*.yml.dist" type="YAML" />
       <mapping pattern=".yamllint" type="YAML" />
+      <mapping ext="toml" type="YAML" />
       <removed_mapping pattern=".env.dist" approved="true" type="Twig" />
     </extensionMap>
   </component>
