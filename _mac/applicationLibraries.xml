@@ -14,7 +14,13 @@
       <SOURCES />
     </library>
     <library name="api" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_apis.google.com_js_api.js" />
+        </sourceFilesUrls>
+      </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_apis.google.com_js_api.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.google.com_recaptcha_api.js" />
       </CLASSES>
       <SOURCES />
@@ -107,6 +113,17 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_docsify-copy-code@2_dist_docsify-copy-code.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="dropins" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.dropbox.com_static_api_2_dropins.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.dropbox.com_static_api_2_dropins.js" />
       </CLASSES>
       <SOURCES />
     </library>
