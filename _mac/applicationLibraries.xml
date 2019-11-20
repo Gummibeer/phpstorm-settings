@@ -378,6 +378,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="progressbar" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_progressbar.js_1.0.1_progressbar.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_progressbar.js_1.0.1_progressbar.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="require" type="javaScript">
       <properties>
         <sourceFilesUrls>
