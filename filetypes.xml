@@ -25,6 +25,7 @@
       <mapping pattern="ssl_error_log" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="ext" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="gradle" type="PLAIN_TEXT" />
       <mapping ext="groovy" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
