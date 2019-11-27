@@ -598,6 +598,10 @@
           <option name="url" value="https://github.com/Gummibeer/npm-securityheaders.io.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Gummibeer/node-weblyse.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/git/Gummibeer" />
