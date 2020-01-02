@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="check-mergability" type="Bash" />
+      <mapping pattern="Dockerfile.dev" type="Dockerfile" />
       <mapping pattern=".sasslintrc" type="JSON" />
       <mapping pattern=".php_cs.cache" type="JSON" />
       <mapping pattern="npm-cli-test" type="JavaScript" />
