@@ -5,6 +5,15 @@
       <interpreter id="754ee8e7-749e-4c1f-9936-8acc3450f9a1" name="PHP 7.1" home="/usr/local/Cellar/php@7.1/7.1.29/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="1cd21e6a-2e86-4e9a-a1d5-923566c75b08" name="PHP 7.2" home="/usr/local/Cellar/php@7.2/7.2.18/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="dfd6d3b2-f819-47cd-902c-0ead1430e6a2" name="PHP 7.3" home="/usr/local/Cellar/php/7.3.5/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="f67e71ca-bcc3-44be-b7b9-03916646184e" name="eventgear_equipment_api" home="docker-compose://DATA" debugger_id="php.debugger.XDebug">
+        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="equipment_api" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false">
+          <dockerComposeConfigurationPaths>
+            <item value="$USER_HOME$/git/Elbgoods/eventgear/eventgear_setup/docker-compose.yml" />
+          </dockerComposeConfigurationPaths>
+          <envs />
+          <type_data command="EXEC" />
+        </remote_data>
+      </interpreter>
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
@@ -86,7 +95,7 @@
           </loaded_extensions>
         </phpinfo>
       </interpreter>
-      <interpreter name="equipment_api">
+      <interpreter name="eventgear_equipment_api">
         <phpinfo binary_type="PHP" php_cgi="/usr/local/bin/php-cgi" php_cli="/usr/local/bin/php" path_separator=":" version="7.3.1">
           <additional_php_ini>/usr/local/etc/php/conf.d/docker-php-ext-gd.ini, /usr/local/etc/php/conf.d/docker-php-ext-mongodb.ini, /usr/local/etc/php/conf.d/docker-php-ext-sodium.ini</additional_php_ini>
           <configuration_file />
@@ -129,83 +138,6 @@
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlwriter" />
-            <extension name="zlib" />
-          </loaded_extensions>
-        </phpinfo>
-      </interpreter>
-      <interpreter name="PHP 7.1">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.1/7.1.29/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.1/7.1.29/bin/php" path_separator=":" version="7.1.29">
-          <additional_php_ini>/usr/local/etc/php/7.1/conf.d/ext-opcache.ini</additional_php_ini>
-          <configuration_file>/usr/local/etc/php/7.1/php.ini</configuration_file>
-          <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.1/7.1.29/share/php@7.1/pear" />
-          </configuration_options>
-          <debuggers />
-          <loaded_extensions>
-            <extension name="Core" />
-            <extension name="PDO" />
-            <extension name="PDO_ODBC" />
-            <extension name="Phar" />
-            <extension name="Reflection" />
-            <extension name="SPL" />
-            <extension name="SimpleXML" />
-            <extension name="Zend OPcache" />
-            <extension name="bcmath" />
-            <extension name="bz2" />
-            <extension name="calendar" />
-            <extension name="ctype" />
-            <extension name="curl" />
-            <extension name="date" />
-            <extension name="dba" />
-            <extension name="dom" />
-            <extension name="exif" />
-            <extension name="fileinfo" />
-            <extension name="filter" />
-            <extension name="ftp" />
-            <extension name="gd" />
-            <extension name="gettext" />
-            <extension name="gmp" />
-            <extension name="hash" />
-            <extension name="iconv" />
-            <extension name="intl" />
-            <extension name="json" />
-            <extension name="ldap" />
-            <extension name="libxml" />
-            <extension name="mbstring" />
-            <extension name="mcrypt" />
-            <extension name="mysqli" />
-            <extension name="mysqlnd" />
-            <extension name="odbc" />
-            <extension name="openssl" />
-            <extension name="pcntl" />
-            <extension name="pcre" />
-            <extension name="pdo_dblib" />
-            <extension name="pdo_mysql" />
-            <extension name="pdo_pgsql" />
-            <extension name="pdo_sqlite" />
-            <extension name="pgsql" />
-            <extension name="phpdbg_webhelper" />
-            <extension name="posix" />
-            <extension name="pspell" />
-            <extension name="readline" />
-            <extension name="session" />
-            <extension name="shmop" />
-            <extension name="soap" />
-            <extension name="sockets" />
-            <extension name="sqlite3" />
-            <extension name="standard" />
-            <extension name="sysvmsg" />
-            <extension name="sysvsem" />
-            <extension name="sysvshm" />
-            <extension name="tidy" />
-            <extension name="tokenizer" />
-            <extension name="wddx" />
-            <extension name="xml" />
-            <extension name="xmlreader" />
-            <extension name="xmlrpc" />
-            <extension name="xmlwriter" />
-            <extension name="xsl" />
-            <extension name="zip" />
             <extension name="zlib" />
           </loaded_extensions>
         </phpinfo>
@@ -295,5 +227,10 @@
         </phpinfo>
       </interpreter>
     </phpInfoCache>
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <phpunit_by_interpreter interpreter_id="f67e71ca-bcc3-44be-b7b9-03916646184e" configuration_file_path="/eventgear/phpunit.xml.dist" custom_loader_path="/eventgear/vendor/autoload.php" phpunit_phar_path="" use_configuration_file="true" />
+    </phpunit_settings>
   </component>
 </application>
