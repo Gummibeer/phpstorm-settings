@@ -10,10 +10,10 @@
       <mapping pattern="makefile" type="Makefile" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="dep" type="PHP" />
+      <mapping pattern=".php_cs.laravel" type="PHP" />
       <mapping pattern="octobus" type="PHP" />
       <mapping pattern="artisan" type="PHP" />
       <mapping pattern=".php_cs.dist" type="PHP" />
-      <mapping pattern=".php_cs.laravel" type="PHP" />
       <mapping pattern="3" type="PLAIN_TEXT" />
       <mapping pattern=".env.dusk" type="PLAIN_TEXT" />
       <mapping pattern="gitignore" type="PLAIN_TEXT" />
