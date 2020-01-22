@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".env.example" type=".env file" />
       <mapping pattern="check-mergability" type="Bash" />
+      <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping pattern="Dockerfile.dev" type="Dockerfile" />
       <mapping pattern=".sasslintrc" type="JSON" />
       <mapping pattern=".php_cs.cache" type="JSON" />
