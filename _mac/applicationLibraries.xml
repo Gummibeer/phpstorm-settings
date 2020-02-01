@@ -313,6 +313,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="lodash" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_lodash@4.17.15_lodash.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_lodash@4.17.15_lodash.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="markerclusterer_compiled" type="javaScript">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_js-marker-clusterer_1.0.0_markerclusterer_compiled.js" />
