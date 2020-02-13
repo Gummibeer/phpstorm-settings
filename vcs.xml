@@ -662,9 +662,13 @@
           <option name="url" value="https://github.com/elbgoods/laravel-country-rule.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Gummibeer/request-o-action" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/git/Elbgoods" />
+    <option name="cloneParentDir" value="$USER_HOME$/git/Gummibeer" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
