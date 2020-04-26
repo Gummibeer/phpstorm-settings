@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="7ba69c03-bb5e-461a-a8c0-0c8ceb50b98e" name="shootager" url="http://81.169.154.12">
-        <fileTransfer host="81.169.154.12" port="22" rootFolder="/var/www/html" accessType="SFTP">
+      <webServer id="7ba69c03-bb5e-461a-a8c0-0c8ceb50b98e" name="shootager" url="http://52.164.245.116">
+        <fileTransfer host="52.164.245.116" port="22" rootFolder="/var/www/de.shootager" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
