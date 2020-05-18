@@ -48,7 +48,13 @@
       <SOURCES />
     </library>
     <library name="bootstrap" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_bootstrap@4.5.0_dist_js_bootstrap.js" />
+        </sourceFilesUrls>
+      </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_bootstrap@4.5.0_dist_js_bootstrap.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_twitter-bootstrap_4.0.0-beta.3_js_bootstrap.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_twitter-bootstrap_4.1.0_js_bootstrap.js" />
       </CLASSES>
@@ -192,7 +198,13 @@
       <SOURCES />
     </library>
     <library name="imagesloaded.pkgd" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_imagesloaded@4.1.4_imagesloaded.pkgd.js" />
+        </sourceFilesUrls>
+      </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_imagesloaded@4.1.4_imagesloaded.pkgd.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_imagesloaded@4_imagesloaded.pkgd.js" />
       </CLASSES>
       <SOURCES />
@@ -218,6 +230,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="isotope.pkgd" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_isotope-layout@3.0.6_dist_isotope.pkgd.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_isotope-layout@3.0.6_dist_isotope.pkgd.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="iziModal" type="javaScript">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_izimodal_1.5.1_js_iziModal.js" />
@@ -228,16 +251,12 @@
       <properties>
         <option name="frameworkName" value="jQuery" />
         <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_jquery_3.3.1_jquery.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_jquery@latest_dist_jquery.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jquery_3.3.1_jquery.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_jquery@3.5.1_dist_jquery.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_jquery_3.3.1_jquery.js" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_jquery@latest_dist_jquery.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_jquery@3.5.1_dist_jquery.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jquery_3.2.1_jquery.js" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jquery_3.3.1_jquery.js" />
       </CLASSES>
       <DOCUMENTATION>
         <root url="http://api.jquery.com" />
@@ -317,6 +336,17 @@
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_vanilla-lazyload@12.4.0_dist_lazyload.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_vanilla-lazyload_12.3.0_lazyload.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="lightgallery" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_lightgallery@1.7.0_dist_js_lightgallery.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_lightgallery@1.7.0_dist_js_lightgallery.js" />
       </CLASSES>
       <SOURCES />
     </library>
