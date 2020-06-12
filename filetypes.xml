@@ -42,6 +42,8 @@
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="rtf" type="PLAIN_TEXT" />
       <mapping ext="njk" type="Twig" />
+      <mapping ext="atom" type="XML" />
+      <mapping ext="rss" type="XML" />
       <mapping pattern="*.yml.dist" type="YAML" />
       <mapping pattern=".yamllint" type="YAML" />
       <mapping ext="toml" type="YAML" />
