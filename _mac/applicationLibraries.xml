@@ -446,6 +446,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="prism-line-numbers" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_prism_1.20.0_plugins_line-numbers_prism-line-numbers.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_prism_1.20.0_plugins_line-numbers_prism-line-numbers.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="prism-php" type="javaScript">
       <properties>
         <sourceFilesUrls>
