@@ -826,9 +826,13 @@
           <option name="url" value="https://github.com/elbgoods/api.life-id.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/elbgoods/laravel-addressable.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/git/Elbgoods/life-id" />
+    <option name="cloneParentDir" value="$USER_HOME$/git/Elbgoods" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
