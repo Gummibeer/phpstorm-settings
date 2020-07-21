@@ -12,6 +12,7 @@
       <mapping pattern="makefile" type="Makefile" />
       <mapping pattern="*.neon.dist" type="Neon" />
       <mapping pattern="*.php.stub" type="PHP" />
+      <mapping pattern="*.php.stup" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="dep" type="PHP" />
       <mapping pattern=".php_cs.laravel" type="PHP" />
