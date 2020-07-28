@@ -3,7 +3,7 @@
     <configs>
       <sshConfig authType="PASSWORD" host="52.164.245.116" id="330e091e-2e3e-4fc9-a0b6-830ef5be1daa" port="22" customName="shootager" nameFormat="CUSTOM" username="shootager" />
       <sshConfig authType="PASSWORD" host="62.75.151.189" id="337cda85-2775-46ed-8482-93e859a57520" port="22" customName="dorne" nameFormat="CUSTOM" username="root" />
-      <sshConfig authType="PASSWORD" host="62.75.151.189" id="a97c794e-651d-4e8b-8819-43e0ee0560ec" port="22" customName="dorne" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="PASSWORD" host="62.75.151.189" id="052b199c-768b-4ea2-b336-d48f10814ec7" port="22" customName="dorne" nameFormat="CUSTOM" username="root" />
     </configs>
   </component>
 </application>
