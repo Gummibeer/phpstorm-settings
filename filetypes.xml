@@ -5,6 +5,7 @@
       <mapping pattern="Dockerfile.dev" type="Dockerfile" />
       <mapping pattern=".surgeignore" type="GitIgnore file" />
       <mapping pattern=".eleventyignore" type="GitIgnore file" />
+      <mapping pattern=".lintignore" type="GitIgnore file" />
       <mapping pattern=".sasslintrc" type="JSON" />
       <mapping pattern=".php_cs.cache" type="JSON" />
       <mapping pattern="npm-cli-test" type="JavaScript" />
