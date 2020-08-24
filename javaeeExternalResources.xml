@@ -3,5 +3,6 @@
     <resource url="http://pmd.sf.net/ruleset_xml_schema.xsd" location="$USER_HOME$/Library/Caches/PhpStorm2019.3/extResources/8a117d51_ruleset_xml_schema.xsd" />
     <resource url="https://raw.githubusercontent.com/K-Phoen/PHP-CS-Fixer/dd96fc45c0b44df9236f1dbdad9815a8865c2b72/doc/checkstyle.xsd" location="$USER_HOME$/Library/Caches/PhpStorm2019.1/extResources/a3306e15_checkstyle.xsd" />
     <resource url="https://schema.phpunit.de/3.7/phpunit.xsd" location="$USER_HOME$/Library/Caches/PhpStorm2019.3/extResources/873bfca6_phpunit.xsd" />
+    <resource url="https://schema.phpunit.de/9.3/phpunit.xsd" location="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2020.2/extResources/e8546028_phpunit.xsd" />
   </component>
 </application>
