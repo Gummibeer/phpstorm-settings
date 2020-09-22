@@ -1,9 +1,21 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="52.164.245.116" id="330e091e-2e3e-4fc9-a0b6-830ef5be1daa" port="22" customName="shootager" nameFormat="CUSTOM" username="shootager" />
-      <sshConfig authType="PASSWORD" host="62.75.151.189" id="337cda85-2775-46ed-8482-93e859a57520" port="22" customName="dorne" nameFormat="CUSTOM" username="root" />
-      <sshConfig authType="PASSWORD" host="62.75.151.189" id="b97f2898-1753-48ba-b527-1f979ec4f5f7" port="22" customName="dorne" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="PASSWORD" host="52.164.245.116" id="330e091e-2e3e-4fc9-a0b6-830ef5be1daa" port="22" customName="shootager" nameFormat="CUSTOM" username="shootager">
+        <option name="customName" value="shootager" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="62.75.151.189" id="337cda85-2775-46ed-8482-93e859a57520" port="22" customName="dorne" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="dorne" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="62.75.151.189" id="b97f2898-1753-48ba-b527-1f979ec4f5f7" port="22" customName="dorne" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="dorne" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="52.164.245.116" id="537b70d6-8e9f-46ed-905b-d7005718ef97" port="22" customName="shootager" nameFormat="CUSTOM">
+        <option name="customName" value="shootager" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="62.75.151.189" id="f83e2881-789b-4e4a-b65c-dea27182f149" port="22" customName="dorne" nameFormat="CUSTOM">
+        <option name="customName" value="dorne" />
+      </sshConfig>
     </configs>
   </component>
 </application>
