@@ -1,20 +1,25 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="4af09fda-8533-4121-8fb5-eaa8a31a6f5c" name="legacy-projects">
+        <fileTransfer rootFolder="/var/www" accessType="SFTP" host="168.119.171.149" port="22" sshConfigId="9b9faeb3-6ad2-45f6-8c17-f19b742c0956" sshConfig="root@168.119.171.149:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
       <webServer id="7ba69c03-bb5e-461a-a8c0-0c8ceb50b98e" name="shootager" url="http://52.164.245.116">
-        <fileTransfer host="52.164.245.116" port="22" rootFolder="/var/www/de.shootager" accessType="SFTP">
+        <fileTransfer rootFolder="/var/www/de.shootager" accessType="SFTP" host="52.164.245.116" port="22" sshConfigId="330e091e-2e3e-4fc9-a0b6-830ef5be1daa" sshConfig="shootager">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="0ba9ea10-52d1-41c2-8eaa-98832f74b3a4" name="dorne" url="http://62.75.151.189">
-        <fileTransfer host="62.75.151.189" port="22" rootFolder="/var/www" accessType="SFTP">
+        <fileTransfer rootFolder="/var/www" accessType="SFTP" host="62.75.151.189" port="22" sshConfigId="337cda85-2775-46ed-8482-93e859a57520" sshConfig="dorne">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
     </option>
