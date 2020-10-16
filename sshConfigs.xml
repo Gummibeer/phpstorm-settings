@@ -16,6 +16,7 @@
       <sshConfig authType="PASSWORD" host="62.75.151.189" id="f83e2881-789b-4e4a-b65c-dea27182f149" port="22" customName="dorne" nameFormat="CUSTOM">
         <option name="customName" value="dorne" />
       </sshConfig>
+      <sshConfig host="168.119.171.149" id="9b9faeb3-6ad2-45f6-8c17-f19b742c0956" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
     </configs>
   </component>
 </application>
