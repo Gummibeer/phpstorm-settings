@@ -158,6 +158,28 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="firebase" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.gstatic.com_firebasejs_8.1.1_firebase.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.gstatic.com_firebasejs_8.1.1_firebase.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="firechat" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.firebase.com_libs_firechat_3.0.1_firechat.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.firebase.com_libs_firechat_3.0.1_firechat.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="fullcalendar" type="javaScript">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_fullcalendar_3.8.0_fullcalendar.js" />
