@@ -941,6 +941,10 @@
           <option name="url" value="https://github.com/Gummibeer/pandorya-photography-styleguide.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Gummibeer/rainer-card-rpg.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/git/Gummibeer" />
