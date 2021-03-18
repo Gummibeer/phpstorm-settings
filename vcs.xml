@@ -1017,9 +1017,13 @@
           <option name="url" value="https://github.com/elbgoods/prg-auth.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Gummibeer/filament.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/git/elbgoods" />
+    <option name="cloneParentDir" value="$USER_HOME$/git/forked/laravel-filament" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
