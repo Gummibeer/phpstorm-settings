@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="@ryangjchandler/alpine-clipboard" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_@ryangjchandler_alpine-clipboard@1.0.0_dist_alpine-clipboard.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_@ryangjchandler_alpine-clipboard@1.0.0_dist_alpine-clipboard.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="@ryangjchandler/spruce" type="javaScript">
       <properties>
         <sourceFilesUrls>
