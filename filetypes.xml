@@ -8,6 +8,7 @@
       <mapping pattern=".lintignore" type="GitIgnore file" />
       <mapping pattern=".sasslintrc" type="JSON" />
       <mapping pattern=".php_cs.cache" type="JSON" />
+      <mapping ext="webmanifest" type="JSON" />
       <mapping pattern="npm-cli-test" type="JavaScript" />
       <mapping pattern="makefile" type="Makefile" />
       <mapping pattern="*.neon.dist" type="Neon" />
