@@ -1,9 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping ext="csv" type="CSV" />
-      <mapping ext="csv" type="CSV file" />
-      <removed_mapping ext="tsv" type="CSV/TSV" />
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping pattern="Dockerfile.dev" type="Dockerfile" />
       <mapping pattern=".surgeignore" type="GitIgnore file" />
@@ -22,11 +19,11 @@
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="artisan" type="PHP" />
       <mapping pattern=".php_cs.laravel" type="PHP" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="2" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
-      <mapping pattern="3" type="PLAIN_TEXT" />
       <mapping pattern="ssl_error_log" type="PLAIN_TEXT" />
+      <mapping pattern="3" type="PLAIN_TEXT" />
       <mapping pattern="4" type="PLAIN_TEXT" />
       <mapping pattern="gitignore" type="PLAIN_TEXT" />
       <mapping pattern="access_log" type="PLAIN_TEXT" />
@@ -44,17 +41,18 @@
       <mapping ext="alias" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
-      <mapping ext="tsv" type="TSV" />
       <mapping ext="njk" type="Twig" />
       <mapping ext="atom" type="XML" />
       <mapping ext="rss" type="XML" />
       <mapping pattern="*.yml.dist" type="YAML" />
       <mapping pattern=".yamllint" type="YAML" />
       <mapping ext="toml" type="YAML" />
+      <removed_mapping ext="csv" type="CSV" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="dist" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="styl" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="tsv" type="CSV/TSV" />
       <removed_mapping pattern=".env.dist" approved="true" type="Twig" />
       <removed_mapping pattern=".env.example" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="check-mergability" type="Bash" />
