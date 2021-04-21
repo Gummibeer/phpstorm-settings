@@ -22,6 +22,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="algoliasearch" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_algoliasearch@4.5.1_dist_algoliasearch-lite.umd.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_algoliasearch@4.5.1_dist_algoliasearch-lite.umd.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="alpine" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -280,6 +291,17 @@
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_highlight.js@latest_lib_index.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_docsify-edit-on-github@1.0.1_index.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_docsify-edit-on-github@1_index.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="instantsearch.js" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_instantsearch.js@4.8.3_dist_instantsearch.production.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_instantsearch.js@4.8.3_dist_instantsearch.production.min.js" />
       </CLASSES>
       <SOURCES />
     </library>
