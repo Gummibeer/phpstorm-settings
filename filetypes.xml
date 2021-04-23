@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="csv" type="CSV" />
       <removed_mapping ext="csv" type="CSV file" />
       <mapping ext="tsv" type="CSV/TSV" />
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
@@ -44,7 +43,6 @@
       <mapping ext="alias" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
-      <removed_mapping ext="tsv" type="TSV" />
       <mapping ext="njk" type="Twig" />
       <mapping ext="atom" type="XML" />
       <mapping ext="rss" type="XML" />
