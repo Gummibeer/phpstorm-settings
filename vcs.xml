@@ -1057,9 +1057,13 @@
           <option name="url" value="https://github.com/zuzana-kunckova/larabelles-temp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Gummibeer/freek.dev.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/git/zuzana-kunckova" />
+    <option name="cloneParentDir" value="$USER_HOME$/git/forked/spatie" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
