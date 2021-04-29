@@ -1077,9 +1077,13 @@
           <option name="url" value="https://github.com/Wulfheart/pretty-routes.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Gummibeer/meetup.laravel.com.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/git/Wulfheart" />
+    <option name="cloneParentDir" value="$USER_HOME$/git/forked/spatie" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
