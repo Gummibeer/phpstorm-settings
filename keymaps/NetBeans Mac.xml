@@ -1,0 +1,16 @@
+<keymap version="1" name="NetBeans Mac" parent="NetBeans 6.5">
+  <action id="ActivateDebugToolWindow" />
+  <action id="ActivateProblemsViewToolWindow" />
+  <action id="ActivateServicesToolWindow" />
+  <action id="ActivateStructureToolWindow" />
+  <action id="ActivateTODOToolWindow" />
+  <action id="ActivateVersionControlToolWindow" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="ctrl u" second-keystroke="s" />
+    <keyboard-shortcut first-keystroke="ctrl meta u" />
+  </action>
+</keymap>
