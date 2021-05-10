@@ -1097,6 +1097,10 @@
           <option name="url" value="https://github.com/Astrotomic/iso639.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Astrotomic/laravel-iso639.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/git/Astrotomic" />
