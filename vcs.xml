@@ -1109,9 +1109,13 @@
           <option name="url" value="https://github.com/Gummibeer/larastreamers.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Astrotomic/tailwind-astrotomic-colors.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/git/forked/christophrumpel" />
+    <option name="cloneParentDir" value="$USER_HOME$/git/Astrotomic" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
