@@ -33,6 +33,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping ext="rtf" type="PLAIN_TEXT" />
+      <mapping ext="m3u8" type="PLAIN_TEXT" />
       <mapping ext="groovy" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
