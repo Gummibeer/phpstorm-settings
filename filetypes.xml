@@ -3,32 +3,32 @@
     <extensionMap>
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping pattern="Dockerfile.dev" type="Dockerfile" />
+      <mapping pattern=".lintignore" type="GitIgnore file" />
       <mapping pattern=".surgeignore" type="GitIgnore file" />
       <mapping pattern=".eleventyignore" type="GitIgnore file" />
-      <mapping pattern=".lintignore" type="GitIgnore file" />
       <mapping pattern=".sasslintrc" type="JSON" />
       <mapping pattern=".php_cs.cache" type="JSON" />
       <mapping ext="webmanifest" type="JSON" />
       <mapping pattern="npm-cli-test" type="JavaScript" />
       <mapping pattern="*.php.stub" type="PHP" />
       <mapping pattern="*.php.stup" type="PHP" />
-      <mapping pattern="dep" type="PHP" />
       <mapping pattern="octobus" type="PHP" />
-      <mapping pattern=".php_cs.dist" type="PHP" />
+      <mapping pattern="dep" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
+      <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern="artisan" type="PHP" />
       <mapping pattern=".php_cs.laravel" type="PHP" />
-      <mapping pattern="2" type="PLAIN_TEXT" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="ssl_error_log" type="PLAIN_TEXT" />
-      <mapping pattern="3" type="PLAIN_TEXT" />
-      <mapping pattern="4" type="PLAIN_TEXT" />
-      <mapping pattern="gitignore" type="PLAIN_TEXT" />
       <mapping pattern="access_log" type="PLAIN_TEXT" />
       <mapping pattern=".env.dusk" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="2" type="PLAIN_TEXT" />
+      <mapping pattern="3" type="PLAIN_TEXT" />
+      <mapping pattern="4" type="PLAIN_TEXT" />
+      <mapping pattern="gitignore" type="PLAIN_TEXT" />
       <mapping ext="rtf" type="PLAIN_TEXT" />
       <mapping ext="m3u8" type="PLAIN_TEXT" />
       <mapping ext="groovy" type="PLAIN_TEXT" />
@@ -52,6 +52,7 @@
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="styl" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
+      <removed_mapping pattern=".eleventyignore" approved="true" type="Eleventy File" />
       <removed_mapping pattern=".env.dist" approved="true" type="Twig" />
       <removed_mapping pattern=".env.example" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="*.neon.dist" type="Neon" />
